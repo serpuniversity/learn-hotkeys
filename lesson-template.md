@@ -10,15 +10,13 @@ tags: []
 
 # [SHORTCUT_NAME] Keyboard Shortcut
 
-| Action | Application | Keys | Keystroke | Tags |
-|--------|-------------|------|------------|------|
-| [What this shortcut does] | [app from metadata] | `Ctrl+X` | Control + X | [tags from metadata] |
-| [Same action on macOS] | [app from metadata] | `⌘+X` | Command + X | [tags from metadata] |
-| [Alternative method if exists] | | | | |
+| Action | Keys | Keystroke | Application | on PC |
+|--------|------|-----------|-------------|---------------|
+| [What this shortcut does] | `⌘+x` | command + x | [app from metadata] | `ctrl+x` |
 
 ## What it does
 
-[Clear description of what happens when you use this shortcut]
+[Clear description of what happens when you use this shortcut (video / gif)]
 
 ## When to use it
 
@@ -30,13 +28,10 @@ tags: []
 
 [Concrete example (GIF or VIDEO) showing before → shortcut → after]
 
-
 ## Related shortcuts
 
-| Action | Application | Keys | Keystrokes | Tags |
-|--------|-------------|------|------------|------|
-| [Related action 1] | | `Ctrl+Y` | Control + Y | |
-| [Related action 2] | | `Ctrl+Z` | Control + Z | |
+- [Shortcut Name](./shortcut-filename.md)
+- [Shortcut Name](./shortcut-filename.md)
 
 
 <!-- 
@@ -45,11 +40,11 @@ Notes for author:
 
 - operation: copy/paste/cut/select/navigate/delete/undo/save/open/close/switch/format
 - application: cross-platform/vscode/chrome/excel/word/terminal/finder/explorer
-- keys: the command using glyphs - example: `⌥ + ←`
-- keystrokes: the command without using glpys - example: `Option + Left Arrow`
-- operatingSystem: windows/mac/linux/all
+- keys: the Mac command using glyphs - example: `⌥ + ←`
+- keystrokes: the Mac command without using glyphs - example: `Option + Left Arrow`
+- PC Equivalent: the Windows/Linux version using glyphs - example: `Alt + ←`
 - category: editing/navigation/selection/window-management/file-operations/formatting
-- tags: Examples: ["essential", "text-editing", "beginner-friendly"]
-- context: the state/environment/focus of when the keyboard shortcut can be used - example: "when text is highlighted"
+- tags: Examples: ["essentials", "common", "advanced"]
+- For Related shortcuts: link to other .md files in same directory link to other .md files in same directory
 
 -->
